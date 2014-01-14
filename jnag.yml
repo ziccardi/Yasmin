@@ -1,0 +1,5 @@
+host: localhost
+#template: Welcome to %s!
+#defaultName: Jnag
+http:
+  rootPath: /app
